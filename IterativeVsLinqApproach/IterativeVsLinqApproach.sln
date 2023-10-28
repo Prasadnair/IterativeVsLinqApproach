@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterativeVsLinqApproach", "IterativeVsLinqApproach\IterativeVsLinqApproach.csproj", "{9C396857-704C-4373-BD9D-C6FFA0E491DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C396857-704C-4373-BD9D-C6FFA0E491DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C396857-704C-4373-BD9D-C6FFA0E491DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C396857-704C-4373-BD9D-C6FFA0E491DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C396857-704C-4373-BD9D-C6FFA0E491DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3A07ADE-8C8B-47DF-8809-812797DDB80A}
+	EndGlobalSection
+EndGlobal
